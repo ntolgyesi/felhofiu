@@ -3,7 +3,7 @@
 /* =====================================================
  * change this to the email you want the form to send to
  * ===================================================== */
-$email_to = "norbi@felhofiu.hu";
+$email_to = "info@felhofiu.hu";
 $email_subject = "Üzenet a Felhőfiú és más mesék c. könyvvel kapcsolatban";
 
 if(isset($_POST['email']))
